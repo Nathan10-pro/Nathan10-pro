@@ -1,70 +1,45 @@
+<div align="center">
+
 # 👋 Hi, I'm Nathan
 
-### 💻 Developer • Programmer • Lifelong Learner
+### 💻 Aspiring Software Developer
 
-> *"Learning, building, and improving — one project at a time."*
+Saya adalah seorang developer yang masih belajar, so- let's collaborate with me...! 🚀
 
----
-
-## 🚀 About Me
-
-I'm a developer who is continuously learning and exploring the world of programming and technology.
-
-I enjoy building projects, experimenting with new technologies, and improving my skills through hands-on experience.
-
-**So — let's collaborate with me...! 🤝**
+</div>
 
 ---
 
-## 🛠️ Languages & Technologies
+### 🙋‍♂️ About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="45"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="45"/>
-</p>
-
-> More technologies will be added as I continue learning.
+Halo! Saya Nathan, seorang developer yang masih dalam proses belajar dan terus mengasah kemampuan di dunia pemrograman. Saya senang mengeksplorasi hal baru dan terbuka untuk berkolaborasi dalam berbagai proyek. Yuk, ngobrol dan bangun sesuatu bareng! ✨
 
 ---
 
-## 🌐 Connect With Me
+### 🛠️ Languages & Technologies
 
-<p align="left">
-  <a href="[LINK/NO WA]" target="_blank">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="40"/>
-  </a>
-  &nbsp;
-  <a href="[LINK LINKEDIN]" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="40"/>
-  </a>
-  &nbsp;
-  <a href="[LINK GITHUB]" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="40"/>
-  </a>
-  &nbsp;
-  <a href="[LINK INSTAGRAM]" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="40"/>
-  </a>
-  &nbsp;
-  <a href="[LINK X]" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="X" height="40"/>
-  </a>
-  &nbsp;
-  <a href="mailto:myethanpublic@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40"/>
-  </a>
-</p>
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Connect With Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&hide_border=true&rank_icon=github" alt="Nathan's GitHub Stats"/>
-</p>
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/neisananca)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myethanpublic@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>✨ Always learning. Always building. Always improving. ✨</i>
-</p>
+<div align="center">
+
+⭐️ Thanks for visiting my profile — let's build something great together!
+
+</div>
