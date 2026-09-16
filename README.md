@@ -25,16 +25,6 @@ Halo semuanya! Perkenalkan, saya **Nathan**. Saya adalah seorang pengembang pera
 
 ---
 
-## 🛠️ Languages & Technologies
-
-Berikut adalah bahasa pemrograman dan teknologi yang saya gunakan:
-
-| Kategori | Teknologi & Tools |
-| :--- | :--- |
-| **Markup & Styling** | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
-
----
-
 ## 🌐 Connect With Me
 
 Jangan ragu untuk menghubungi saya untuk berdiskusi, bertukar pikiran, atau sekadar menyapa!
