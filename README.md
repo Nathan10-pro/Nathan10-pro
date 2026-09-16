@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:38bdf8&height=200&section=header&text=Hi%20there,%20I'm%20Nathan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:38bdf8&height=200&section=header&text=Hi%20there,%20I'm%20Nathan%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com">
@@ -14,18 +14,7 @@
 
 ---
 
-## 📌 About Me
-
-Halo semuanya! Perkenalkan, saya **Nathan**. Saya adalah seorang pengembang perangkat lunak yang bersemangat mempelajari hal-hal baru di dunia pemrograman dan teknologi web.
-
-- 🔭 **Sedang Berfokus Pada:** Memperkuat fundamental web modern dan best practices.
-- 💡 **Filosofi:** Selalu ingin tahu, terus berkembang, dan siap berkontribusi pada hal-hal bermanfaat.
-- 🤝 **Kolaborasi:** Sangat terbuka untuk berdiskusi, belajar bersama, maupun membangun proyek kolaboratif.
-- ⚡ **Fun Fact:** Belajar coding itu menantang tapi selalu menyenangkan saat hasilnya mulai bekerja!
-
----
-
-## 🌐 Connect With Me
+## Connect With Me
 
 Jangan ragu untuk menghubungi saya untuk berdiskusi, bertukar pikiran, atau sekadar menyapa!
 
